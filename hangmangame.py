@@ -42,4 +42,4 @@ while not game_over:
         print(hangman_art.stages[game_lives])
         if game_lives < 1:
             game_over = True
-            print("game over")
+            print("game is over :(")
